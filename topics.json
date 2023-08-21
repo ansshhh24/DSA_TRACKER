@@ -1,0 +1,75 @@
+[{
+        "name": "Arrays",
+        "questions": [
+            { "title": "Question 1", "link": "https://example.com/question1" },
+            { "title": "Question 2", "link": "https://example.com/question2" },
+            { "title": "Question 3", "link": "https://example.com/question3" }
+        ]
+    },
+    {
+        "name": "String",
+        "questions": [
+            { "title": "Question 1", "link": "https://example.com/question1" },
+            { "title": "Question 2", "link": "https://example.com/question2" },
+            { "title": "Question 3", "link": "https://example.com/question3" }
+        ]
+    },
+    {
+        "name": "LinkedList",
+        "questions": [
+            { "title": "Question 1", "link": "https://example.com/question1" },
+            { "title": "Question 2", "link": "https://example.com/question2" },
+            { "title": "Question 3", "link": "https://example.com/question3" }
+        ]
+    },
+    {
+        "name": "Sorting",
+        "questions": [
+            { "title": "Question 1", "link": "https://example.com/question1" },
+            { "title": "Question 2", "link": "https://example.com/question2" },
+            { "title": "Question 3", "link": "https://example.com/question3" }
+        ]
+    },
+    {
+        "name": "Greedy",
+        "questions": [
+            { "title": "Question 1", "link": "https://example.com/question1" },
+            { "title": "Question 2", "link": "https://example.com/question2" },
+            { "title": "Question 3", "link": "https://example.com/question3" }
+        ]
+    },
+    {
+        "name": "Recursion",
+        "questions": [
+            { "title": "Question 1", "link": "https://example.com/question1" },
+            { "title": "Question 2", "link": "https://example.com/question2" },
+            { "title": "Question 3", "link": "https://example.com/question3" }
+        ]
+    },
+
+    {
+        "name": "Stack",
+        "questions": [
+            { "title": "Question 1", "link": "https://example.com/question1" },
+            { "title": "Question 2", "link": "https://example.com/question2" },
+            { "title": "Question 3", "link": "https://example.com/question3" }
+        ]
+    },
+    {
+        "name": "Queue",
+        "questions": [
+            { "title": "Question 1", "link": "https://example.com/question1" },
+            { "title": "Question 2", "link": "https://example.com/question2" },
+            { "title": "Question 3", "link": "https://example.com/question3" }
+        ]
+    },
+    {
+        "name": "Tree",
+        "questions": [
+            { "title": "Question 1", "link": "https://example.com/question1" },
+            { "title": "Question 2", "link": "https://example.com/question2" },
+            { "title": "Question 3", "link": "https://example.com/question3" }
+        ]
+    }
+
+]
